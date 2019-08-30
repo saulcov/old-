@@ -61,8 +61,8 @@ nav {
   z-index: 1;
 }
 .menu-area a:hover {
-  background: tomato;
-  color: #89CFF0;
+  background: lightblue;
+  color: #000000;
 }
 
 .menu-area a:hover:after {
@@ -70,5 +70,5 @@ nav {
 }
 
 .active {
-  background-color: lightblue;
+  background-color: #4169E1;
 }
