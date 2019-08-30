@@ -62,7 +62,7 @@ nav {
 }
 .menu-area a:hover {
   background: tomato;
-  color: #fff;
+  color: #89CFF0;
 }
 
 .menu-area a:hover:after {
