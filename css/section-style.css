@@ -17,6 +17,7 @@ section {
 
 .profile .left {
 	text-align: center;
+	border-radius: 50%;
 }
 
 section button {
