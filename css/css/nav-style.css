@@ -1,17 +1,9 @@
-body {
-  background-image: url("../img/white-abstract-background.jpeg");
-  -webkit-background-size:cover;
-  background-size: cover;
-  background-position: center center;
-  height: 100vh;
-}
-
 header {
 	background-color: #333;
 	padding: 10px;
 	margin: 20px auto;
 	justify-content: center;
-	max-width: 1000px;
+	max-width: 1200px;
 }
 
 nav {
